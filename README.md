@@ -66,6 +66,7 @@ This will:
 ## Project Structure
 ```
 📂 marvel-character-report
+│── Blue_Harvest_Data_Assignment.pdf   # Main PDF
 │── Marvel_Data_API_CallI.py    # Main script for API calls & reporting
 │── requirements.txt            # Dependencies
 │── README.md                   # This documentation
