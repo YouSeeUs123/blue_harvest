@@ -288,10 +288,10 @@ def main():
     timestamp = datetime.datetime.now().strftime('%Y-%m-%d%H:%M:%S')
 
     #Your public key
-    key_public = '54c6b20d3c40292d220952da6456d8c3'
+    key_public = ''
 
     #Your Private key
-    key_private = '57954991457055ade9f281dc6c47726f8f6c89c9'
+    key_private = ''
 
     #marvel base url
     marvel_api_url_base = 'https://gateway.marvel.com:443'
