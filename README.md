@@ -82,7 +82,7 @@ This will:
 
 ## To-Do List (Future Improvements)
 - Fetch and store all Marvel comics  
-- Implement data better integrity checks  
+- Implement better data integrity checks  
 - Enhance UI with visualization charts  
 - Add character images from API  
 
