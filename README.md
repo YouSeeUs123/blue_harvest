@@ -15,7 +15,6 @@ This project fetches Marvel character data using the **Marvel API**, stores it i
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/YouSeeUs123/blue_harvest.git
-cd marvel-character-report
 ```
 
 ### 2. Install Dependencies
